@@ -1,6 +1,10 @@
 {
     "name": "my-money-backend",
     "version": "3.0.0",
+    "engines": {
+        "node": "10.15.3",
+        "npm": "6.4.1"
+    },
     "description": "",
     "main": "src/loader.js",
     "scripts": {
